@@ -1,78 +1,51 @@
 
 # Floor Plan Project
 
-## Complete Home Layout
 
-### Original Floor Plan
-![Original Floor Plan](./floor-plan-original.png)
+## 1. 玄关
 
-## Room-by-Room Breakdown
+不要玄关
 
-### 1. Living Room
-![Living Room Floor Plan](./floor-plan-1-living-room.png)
+但需要以下功能：鞋柜，摆雨伞，摆钥匙，手套，临时摆买完的菜
 
-**Description:**
-[Add your description of the living room layout here]
+入门右手边的墙部分可以打掉 
 
-### 2. Kitchen
-![Kitchen Floor Plan](./floor-plan-2-kitchen.png)
+尝试计算 1米559 = 洗衣机宽 + 冰箱宽 + 柜子深度
 
-**Description:**
-[Add your description of the kitchen layout here]
+能否摆得下洗衣机加冰箱 加定制柜子
 
-### 3. Dining Room
-![Dining Room Floor Plan](./floor-plan-3-dining-room.png)
+洗衣机常见阔度 0.6米 深度 0.5米
+单门冰箱阔度0.55米 深度 6.23米 东芝
 
-**Description:**
-[Add your description of the dining room layout here]
+这样子 玄关的柜子还可以有 0.4米的深度
 
-### 4. Bathroom
-![Bathroom Floor Plan](./floor-plan-4-bath-room.png)
 
-**Description:**
-[Add your description of the bathroom layout here]
 
-### 5. Small Bedroom
-![Small Bedroom Floor Plan](./floor-plan-5-bedroom-small.png)
 
-**Description:**
-[Add your description of the small bedroom layout here]
+## 2. Living Room
 
-### 6. Medium Bedroom
-![Medium Bedroom Floor Plan](./floor-plan-6-bedroom-midean.png)
 
-**Description:**
-[Add your description of the medium bedroom layout here]
 
-### 7. Large Bedroom
-![Large Bedroom Floor Plan](./floor-plan-7-bedroom-big.png)
+## 3. Kitchen
 
-**Description:**
-[Add your description of the large bedroom layout here]
 
-## Project Notes
 
-- **Total Rooms:** 7 individual floor plans plus original complete layout
-- **File Format:** PNG images
-- **Status:** [In Progress / Complete / Under Review]
 
-## Usage
+## 4. Dining Room
 
-1. View the original complete floor plan for overall layout
-2. Reference individual room plans for detailed layouts
-3. Use for renovation planning, furniture placement, or design discussions
 
-## Files Structure
 
-```
-floor-plan/
-├── README.md
-├── floor-plan-original.png
-├── floor-plan-1-living-room.png
-├── floor-plan-2-kitchen.png
-├── floor-plan-3-dining-room.png
-├── floor-plan-4-bath-room.png
-├── floor-plan-5-bedroom-small.png
-├── floor-plan-6-bedroom-midean.png
-└── floor-plan-7-bedroom-big.png
-```
+## 5. Bathroom
+
+
+
+
+## 6. Small Bedroom
+
+
+
+## 7. Medium Bedroom
+
+
+
+## 8. Large Bedroom
