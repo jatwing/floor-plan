@@ -67,7 +67,17 @@ https://detail.tmall.com/item.htm?abbucket=15&id=604249881578&pisk=ga6qR-A-m-eq3
 注意 馬桶有最小坑距 305mm 或者 400 mm
 
 
-### 4.3 
+### 4.3 熱水爐
+
+
+
+### 4.4 直立式洗衣機
+
+
+
+### 4.5 洗手台
+
+
 
 
 ## 5. 餐廳
