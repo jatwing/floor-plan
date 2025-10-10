@@ -79,12 +79,21 @@ https://www.sweethome3d.com/freeModels.jsp
 
 [海尔官方旗舰店电热水器卫生间洗澡家用60升 755 x 430 x 455 三千四](https://detail.tmall.com/item.htm?abbucket=2&fpChannel=101&fpChannelSig=d0dc7ff896c0c5d0df7767faf75b26f2a36d326c&id=888750470399&maskChannel=bybtrs&mi_id=0000d5_2wXjGuW51YJnaBMgV5fQAgKbvZgKB_wuU1EsHue4&ns=1&priceTId=2100c88c17600040520005334e0928&skuId=6106536458616&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22dedc9d0e0d9e5766599c4d4bedcecf44%22%7D&xxc=taobaoSearch)
 
-### 4.4 直立式洗衣機
+### 4.4 波轮洗衣機
 
-洗衣機佔用區域為 580 x 600 x 50 有地台 防止積水損壞洗衣機
+洗衣機佔用區域為 610 x 640 x 50。
+
+有地台 防止積水損壞洗衣機 ？？？ 
+
+洗衣機左右上要預留15 散熱，
+
+另
 
 [小天鹅小乌梅2.0 550 x 580 x 980 二千一](https://detail.tmall.com/item.htm?id=837952938134&pisk=f4qDovXA0rufWPEBpamfk3XNpUbKHKisr5Kt6chNzblSX-ht6OxgQJ6jWRlTjcV7aVrxD-FkhuVHXnCflR-ivc5d9MILhxnsb6BY-U9kGvHw7Ghq_0onDrsV9MILhrckVQ5LXkKBz2DtbxoZ_QWoQAlZbq-ZaTDZBIlZg5yy-EJAsY-0vK0ntCANXG8ea_c33bxHduDPfXjIwhR44xAdL-coy4EonqcK7HmnkoP8QoEjPGKsf8U3sPPFwEh4-vVoJrfHmWVjQ7kzMOLsEP2aAmgDQho07SZilrv1d8o4NyGIua1SEoEKSXgkiHcTcSEo-k5yqYszZU8e3ntsUOEk5U3qFYcpOLK5TfNKzrWlEezIuYMb9lBk7EdBbhL5ETYUDqkShS1..&scene=taobao_shop&spm=a1z10.1-b-s.w15914280-23624881644.2.7643ae1d2RtNjd&skuId=5597699136170)
 
+[美的MG10V36T 10kg金屬鈦 550 x 565 x 940 二千](https://detail.tmall.com/item.htm?ali_refid=a3_420434_1006%3A1687218187%3AH%3AJWf8IZp8ftIhYjEmhJglK9jxsJdk96b3%3A965b32664dd5c3d332847c36b8bff49b&ali_trackid=318_965b32664dd5c3d332847c36b8bff49b&id=822806092748&mi_id=0000uJ44YB-ig_j0AVqa3R2wC1BjWgp57nVoNKpmLCJ19W8&mm_sceneid=0_0_5439422246_0&priceTId=2100c89817600869731922771e0900&skuId=5901075604302&spm=a21n57.1.hoverItem.5&utparam=%7B%22aplus_abtest%22%3A%229b3181ba765d775060ed97db0aeb2f98%22%7D&xxc=ad_ztc)
+
+左右後預留50，開蓋預留330
 
 ### 4.5 洗手台
 
