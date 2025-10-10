@@ -81,6 +81,9 @@ https://www.sweethome3d.com/freeModels.jsp
 
 ### 4.4 直立式洗衣機
 
+洗衣機佔用區域為 580 x 600 x 50 有地台 防止積水損壞洗衣機
+
+[小天鹅小乌梅2.0 550 x 580 x 980](https://detail.tmall.com/item.htm?id=837952938134&pisk=f4qDovXA0rufWPEBpamfk3XNpUbKHKisr5Kt6chNzblSX-ht6OxgQJ6jWRlTjcV7aVrxD-FkhuVHXnCflR-ivc5d9MILhxnsb6BY-U9kGvHw7Ghq_0onDrsV9MILhrckVQ5LXkKBz2DtbxoZ_QWoQAlZbq-ZaTDZBIlZg5yy-EJAsY-0vK0ntCANXG8ea_c33bxHduDPfXjIwhR44xAdL-coy4EonqcK7HmnkoP8QoEjPGKsf8U3sPPFwEh4-vVoJrfHmWVjQ7kzMOLsEP2aAmgDQho07SZilrv1d8o4NyGIua1SEoEKSXgkiHcTcSEo-k5yqYszZU8e3ntsUOEk5U3qFYcpOLK5TfNKzrWlEezIuYMb9lBk7EdBbhL5ETYUDqkShS1..&scene=taobao_shop&spm=a1z10.1-b-s.w15914280-23624881644.2.7643ae1d2RtNjd&skuId=5597699136170)
 
 
 ### 4.5 洗手台
@@ -130,6 +133,12 @@ https://www.sweethome3d.com/freeModels.jsp
 [海尔官方旗舰店](https://haier.tmall.com/?spm=a220o.1000855.1997427721.d4918089.2f775e8fEwkUHn&from_branding=true&ali_trackid=41_f60a6b1ad3f480890d40e28130b1a2b8&mm_sceneid=0_0_18307420_0)
 
 
+[松下](https://panasonicdq.tmall.com/shop/view_shop.htm?spm=a21n57.shop_search.0.0.3fe56a84AeDaFm)
+
+[小天鵝](https://littleswan.tmall.com/?spm=a1z10.1-b-s.1997427721.d4918089.7643ae1d2RtNjd)
+
+
+[LG](https://lg.tmall.com/?spm=a1z10.4-b-s.1997427721.d4918089.d1196e06UkqxCE)
 
 ### 8.2 京東
 
