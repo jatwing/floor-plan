@@ -132,13 +132,13 @@ https://www.sweethome3d.com/freeModels.jsp
 
 [海尔官方旗舰店](https://haier.tmall.com/?spm=a220o.1000855.1997427721.d4918089.2f775e8fEwkUHn&from_branding=true&ali_trackid=41_f60a6b1ad3f480890d40e28130b1a2b8&mm_sceneid=0_0_18307420_0)
 
-
 [松下](https://panasonicdq.tmall.com/shop/view_shop.htm?spm=a21n57.shop_search.0.0.3fe56a84AeDaFm)
 
 [小天鵝](https://littleswan.tmall.com/?spm=a1z10.1-b-s.1997427721.d4918089.7643ae1d2RtNjd)
 
-
 [LG](https://lg.tmall.com/?spm=a1z10.4-b-s.1997427721.d4918089.d1196e06UkqxCE)
+
+[美的](https://midea.tmall.com/shop/view_shop.htm?spm=pc_detail.30350276.shop_block.dshopinfo.56897dd64NN662)
 
 ### 8.2 京東
 
