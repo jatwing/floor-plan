@@ -49,7 +49,7 @@
 
 洗髮水沐浴露可以放在窗台，也可以放在宜家塑料三角架
 
-長度1500，厚度100，高度2300的磨砂玻璃，用以分隔淋浴間和廁所。
+1500 x 100 x2300的磨砂玻璃，用以分隔淋浴間和廁所。
 
 
 ### 4.2 馬桶
@@ -65,6 +65,8 @@
 
 
 ### 4.3 熱水爐
+
+[海尔官方旗舰店电热水器卫生间洗澡家用60升 755 x 430 x 455](https://detail.tmall.com/item.htm?abbucket=2&fpChannel=101&fpChannelSig=d0dc7ff896c0c5d0df7767faf75b26f2a36d326c&id=888750470399&maskChannel=bybtrs&mi_id=0000d5_2wXjGuW51YJnaBMgV5fQAgKbvZgKB_wuU1EsHue4&ns=1&priceTId=2100c88c17600040520005334e0928&skuId=6106536458616&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22dedc9d0e0d9e5766599c4d4bedcecf44%22%7D&xxc=taobaoSearch)
 
 
 
