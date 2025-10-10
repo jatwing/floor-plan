@@ -75,15 +75,15 @@ https://www.sweethome3d.com/freeModels.jsp
 
 熱水爐位於馬桶上方， 暫定懸空高度1800 ？？ 水平位置？？？？ 暫定為偏向馬桶上方偏右。
 
-[美的玲珑UDmini电热水器 60L 695 x 316 x 555](https://detail.tmall.com/item.htm?ali_refid=a3_420434_1006%3A1151312967%3AH%3AFNluQBAv2OITf65biqoqio6SEpIY9vuj%3Aaf1b9837e6c8d4e02875c0a87e997652&ali_trackid=318_af1b9837e6c8d4e02875c0a87e997652&fpChannel=101&fpChannelSig=4a162cdc8b87c206fd35b539681cad89e8237895&id=867393983829&mi_id=0000uPbopwSNf_nAvxhB8EROuxEpwloHRPK3VtTxNE8cPBk&mm_sceneid=0_0_126241459_0&priceTId=2100c88e17600699343734320e0935&skuId=5713090645829&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22cb82f4b1aa7722bf011f6d1b8e478422%22%7D&xxc=ad_ztc)
+[美的玲珑UDmini电热水器 60L 695 x 316 x 555 三千三](https://detail.tmall.com/item.htm?ali_refid=a3_420434_1006%3A1151312967%3AH%3AFNluQBAv2OITf65biqoqio6SEpIY9vuj%3Aaf1b9837e6c8d4e02875c0a87e997652&ali_trackid=318_af1b9837e6c8d4e02875c0a87e997652&fpChannel=101&fpChannelSig=4a162cdc8b87c206fd35b539681cad89e8237895&id=867393983829&mi_id=0000uPbopwSNf_nAvxhB8EROuxEpwloHRPK3VtTxNE8cPBk&mm_sceneid=0_0_126241459_0&priceTId=2100c88e17600699343734320e0935&skuId=5713090645829&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22cb82f4b1aa7722bf011f6d1b8e478422%22%7D&xxc=ad_ztc)
 
-[海尔官方旗舰店电热水器卫生间洗澡家用60升 755 x 430 x 455](https://detail.tmall.com/item.htm?abbucket=2&fpChannel=101&fpChannelSig=d0dc7ff896c0c5d0df7767faf75b26f2a36d326c&id=888750470399&maskChannel=bybtrs&mi_id=0000d5_2wXjGuW51YJnaBMgV5fQAgKbvZgKB_wuU1EsHue4&ns=1&priceTId=2100c88c17600040520005334e0928&skuId=6106536458616&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22dedc9d0e0d9e5766599c4d4bedcecf44%22%7D&xxc=taobaoSearch)
+[海尔官方旗舰店电热水器卫生间洗澡家用60升 755 x 430 x 455 三千四](https://detail.tmall.com/item.htm?abbucket=2&fpChannel=101&fpChannelSig=d0dc7ff896c0c5d0df7767faf75b26f2a36d326c&id=888750470399&maskChannel=bybtrs&mi_id=0000d5_2wXjGuW51YJnaBMgV5fQAgKbvZgKB_wuU1EsHue4&ns=1&priceTId=2100c88c17600040520005334e0928&skuId=6106536458616&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22dedc9d0e0d9e5766599c4d4bedcecf44%22%7D&xxc=taobaoSearch)
 
 ### 4.4 直立式洗衣機
 
 洗衣機佔用區域為 580 x 600 x 50 有地台 防止積水損壞洗衣機
 
-[小天鹅小乌梅2.0 550 x 580 x 980](https://detail.tmall.com/item.htm?id=837952938134&pisk=f4qDovXA0rufWPEBpamfk3XNpUbKHKisr5Kt6chNzblSX-ht6OxgQJ6jWRlTjcV7aVrxD-FkhuVHXnCflR-ivc5d9MILhxnsb6BY-U9kGvHw7Ghq_0onDrsV9MILhrckVQ5LXkKBz2DtbxoZ_QWoQAlZbq-ZaTDZBIlZg5yy-EJAsY-0vK0ntCANXG8ea_c33bxHduDPfXjIwhR44xAdL-coy4EonqcK7HmnkoP8QoEjPGKsf8U3sPPFwEh4-vVoJrfHmWVjQ7kzMOLsEP2aAmgDQho07SZilrv1d8o4NyGIua1SEoEKSXgkiHcTcSEo-k5yqYszZU8e3ntsUOEk5U3qFYcpOLK5TfNKzrWlEezIuYMb9lBk7EdBbhL5ETYUDqkShS1..&scene=taobao_shop&spm=a1z10.1-b-s.w15914280-23624881644.2.7643ae1d2RtNjd&skuId=5597699136170)
+[小天鹅小乌梅2.0 550 x 580 x 980 二千一](https://detail.tmall.com/item.htm?id=837952938134&pisk=f4qDovXA0rufWPEBpamfk3XNpUbKHKisr5Kt6chNzblSX-ht6OxgQJ6jWRlTjcV7aVrxD-FkhuVHXnCflR-ivc5d9MILhxnsb6BY-U9kGvHw7Ghq_0onDrsV9MILhrckVQ5LXkKBz2DtbxoZ_QWoQAlZbq-ZaTDZBIlZg5yy-EJAsY-0vK0ntCANXG8ea_c33bxHduDPfXjIwhR44xAdL-coy4EonqcK7HmnkoP8QoEjPGKsf8U3sPPFwEh4-vVoJrfHmWVjQ7kzMOLsEP2aAmgDQho07SZilrv1d8o4NyGIua1SEoEKSXgkiHcTcSEo-k5yqYszZU8e3ntsUOEk5U3qFYcpOLK5TfNKzrWlEezIuYMb9lBk7EdBbhL5ETYUDqkShS1..&scene=taobao_shop&spm=a1z10.1-b-s.w15914280-23624881644.2.7643ae1d2RtNjd&skuId=5597699136170)
 
 
 ### 4.5 洗手台
