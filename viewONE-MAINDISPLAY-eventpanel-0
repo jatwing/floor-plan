@@ -1,3 +1,12 @@
+2/7142/86/PH2
+
+2-19(T) 1ST-28TH FL., ROOF & TOP ROOF, PLAN (BLOCK 9-17)
+
+images.forEach((img, idx) => {
+  downloadImage(img, idx);
+});
+
+
 https://bravo.bd.gov.hk/inspectionPlan?recId=77018&imageId=7a4cff8c1d2eb3c7473958cff13366ac&timestamp=1760358145321
 
 
