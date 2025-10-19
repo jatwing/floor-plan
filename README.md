@@ -70,24 +70,40 @@ https://www.sweethome3d.com/freeModels.jsp
 
 
 ### 4.2 馬桶
- 
-馬桶實際使用區域為 700 x 750
 
-[TOTO-CW887 428 x 747 x 657, 三千七](https://detail.tmall.com/item.htm?abbucket=15&id=639062521686&pisk=gjGZRK2dSCdap-jB1DFV80hq9NeT6S-7IjZboq005lqgc5am0kuuCFnjcvrqxDri1dEfgionlNwgj103-zaaSiVmoZzmA52xCoZ_0Sux4A-WNQgtWSekV3OWhK1Y67I0S1jbtM40gPVK9LcqWSFDVw1DFQutXgebvZ40-ezbo1jmmlq3-kUVsim0jJj3krF0mmm0-W48yP40IO4h-kU5sNV0oJf3urWcmrmm-ezYxoV0im0H8rE3mfREZjdUzRYeouP89E2UQu0gY_7-TyDPBVZFBOGFNRrkVk5ciXztuseSf_JbqYE_FlnHO1Pq-roUFA-P_mumyx2EgGYsqqkED5GHoOqoCcwmsJRlYyHn5xctbZ50WfG73ueeosebtbwo3S-dLyMmrXyotE_zcYgIsJokA6oY3xc_tfxHagRCDyXFhjHNmt2GGyrW8e8F5amnOBg77tBYBFUUVFQOntjRNs6ZGFBAHRH78uTOP&rn=7928f8bb0b371752536dfd4d1a30f5e5&sku_properties=3064618%3A29432734&spm=a1z10.5-b-s.w4011-25718020148.58.5cc61e52An2lDv)
+自由咀 马桶 實際使用區域為 700 x 710 还需要脚向前的空间
 
+[TOTO CW631PJ 自由咀分體式座廁](https://www.builtinpro.hk/toto/cw631pj)
+424 x 710 x 765, HKD 2989
 
-[TOTO-CW802 396 x 720 x 734， 二千五](https://detail.tmall.com/item.htm?abbucket=15&id=604249881578&pisk=ga6qR-A-m-eq3437hapZ4wBNemdvKdzBiOT6jGjMcEYD5KtG7USHGoQ15_8Nra8chSLsQV7lfmODoxjkqHt2mVvGjc-GPKAOGFTX7dSO8szQdJsADdd3RywQ15M9HphMSn06EYxHQnvReWXNDdpgR0MgOJSAk2d6pcxMqu-6jx0GSEYkqUKZnxbMoQ0kXhpMSNbMqLxpvnxMijxoqUKBSAAMS8mkDhlmoAbGqu-9rFvMINju4hLkSf-PKOeyYIqzjeJpejxpgejDzvodU3YmMi8rkq6rdI8nRUkiIT-AbAdClvP6-6LXOEQuFxJNqh7yOszE3NSGv1APQqqf-G5PWK6ujjYhGZOGnQynz3Clc1XAuckMDt6B_edzjAd6E9Oh_dz-a31GxTRhElie56s5nQ73PY79_1XXEt4uLgSIW3cr1OCqSfAmC38Q4urrcDblF8sB0fh9MoKyRonxsf0KdAGVCoht6ICB4eZxA&rn=7928f8bb0b371752536dfd4d1a30f5e5&spm=a1z10.5-b-s.w4011-25718020148.54.5cc61e52An2lDv)
+[TOTO C945RE 自由咀分體座廁配油壓廁板](https://www.builtinpro.hk/toto/c945re)
+396 x 695 x 789, HKD 3190
+
+[rigel wc9246F-HKM](https://www.builtinpro.hk/rigel/wc9246f-hkm)
+385 x 650 x 750, HKD 2689
 
 注意 馬桶有最小坑距 305mm 或者 400 mm
 
 
-### 4.3 熱水爐
+### 4.3 電熱水爐 还是煤气
 
 熱水爐位於馬桶上方， 暫定懸空高度1800 ？？ 水平位置？？？？ 暫定為偏向馬桶上方偏右。
 
+[Berlin 柏林 25公升中央儲水式電熱水爐 (單相) UHP-6.5A](https://hkele.com.hk/UHP-6-5A-3KW-UW2R-)
+325 x 285 x 670, HKD 2789
+
+
+[Rasonic 樂信 RWH-CT21L-R 19公升](https://www.builtinpro.hk/storage-water-heater/rwh-ct21l-r?u=hot_item_5)
+
+
 [美的玲珑UDmini电热水器 60L 695 x 316 x 555 三千三](https://detail.tmall.com/item.htm?ali_refid=a3_420434_1006%3A1151312967%3AH%3AFNluQBAv2OITf65biqoqio6SEpIY9vuj%3Aaf1b9837e6c8d4e02875c0a87e997652&ali_trackid=318_af1b9837e6c8d4e02875c0a87e997652&fpChannel=101&fpChannelSig=4a162cdc8b87c206fd35b539681cad89e8237895&id=867393983829&mi_id=0000uPbopwSNf_nAvxhB8EROuxEpwloHRPK3VtTxNE8cPBk&mm_sceneid=0_0_126241459_0&priceTId=2100c88e17600699343734320e0935&skuId=5713090645829&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22cb82f4b1aa7722bf011f6d1b8e478422%22%7D&xxc=ad_ztc)
 
-[海尔官方旗舰店电热水器卫生间洗澡家用60升 755 x 430 x 455 三千四](https://detail.tmall.com/item.htm?abbucket=2&fpChannel=101&fpChannelSig=d0dc7ff896c0c5d0df7767faf75b26f2a36d326c&id=888750470399&maskChannel=bybtrs&mi_id=0000d5_2wXjGuW51YJnaBMgV5fQAgKbvZgKB_wuU1EsHue4&ns=1&priceTId=2100c88c17600040520005334e0928&skuId=6106536458616&spm=a21n57.1.hoverItem.4&u_channel=bybtqdyh&umpChannel=bybtqdyh&utparam=%7B%22aplus_abtest%22%3A%22dedc9d0e0d9e5766599c4d4bedcecf44%22%7D&xxc=taobaoSearch)
+
+买不了， 看一下顺丰集运可不可行。
+
+
+
+如果用煤气炉 煤气管的位置是固定的 贴墙
 
 ### 4.4 波轮洗衣機
 
@@ -108,13 +124,32 @@ https://www.sweethome3d.com/freeModels.jsp
 ### 4.5 洗手台
 
 
-洗手盆 700 x 550  x 1000 ???
+面盆
+
+[TOTO L710CSRE 半嵌入檯上盤](https://www.builtinpro.hk/l710csre)
+500 x 450 x 850, HKD 2189
+
+
+面盆櫃 柜子定制： 参考
+
+[單門左側紙巾孔訂製櫃](https://housestyle.com.tw/product/toto-l710cgur-%E8%A8%82%E8%A3%BD%E6%B5%B4%E6%AB%83/)
+
+我们要落地的， 侧边的 纸巾孔也可以， 颜色？？？？
+
 
 洗手盆下面有收納櫃
 
-吊櫃 高度未知 700 x 300 ??深度要多少合適呢
 
-吊櫃最下面一層可以拿來放牙刷
+#### 4.6 洗手台上方吊柜
+
+吊柜定制 
+
+500 x 200 x 600 离地高度为 1300 如果影响到假天花
+三行两列
+外面整个是镜面
+
+
+
 
 毛巾放哪裡？？？？
 
@@ -174,7 +209,9 @@ https://www.sweethome3d.com/freeModels.jsp
 
 但需要以下功能：鞋柜，摆雨伞，摆钥匙，手套，临时摆买完的菜
 
-入门右手边的墙部分可以打掉 
+入门右手边的墙部分可以打掉  佔用原本廚房的空間
+
+電箱的位置要改在外面 原本為廚房裡面 廚房門右側前方
 
 尝试计算 1米559 = 洗衣机宽 + 冰箱宽 + 柜子深度
 
@@ -206,6 +243,26 @@ https://www.sweethome3d.com/freeModels.jsp
 [LG](https://lg.tmall.com/?spm=a1z10.4-b-s.1997427721.d4918089.d1196e06UkqxCE)
 
 [美的](https://midea.tmall.com/shop/view_shop.htm?spm=pc_detail.30350276.shop_block.dshopinfo.56897dd64NN662)
+
+
+BBE
+
+https://hkele.com.hk/info/On-Ying-Court-Sepcial-Offer
+
+
+Built-In Pro
+
+https://www.builtinpro.hk/rigel/wc9246f-hkm
+
+
+Bath and kitchen
+
+https://bathkitchen.hk/product-category/basin/
+
+
+Germanpool
+
+https://www.germanpool.com/chi/kitchen/
 
 ### 8.2 京東
 
@@ -247,6 +304,19 @@ https://www.sweethome3d.com/freeModels.jsp
 
 電磁爐，電飯鍋，雪櫃，抽油煙機，排氣，預留2個，
 
+門或者開放式？？？
+
+電磁爐
+
+煤氣灶
+
+邊角是水池和煤氣爐的交界 水池比較高
+
+水池
+
+冰箱
+
+煤氣灶 水池 冰箱上都有櫥櫃拿來放東西
 
 ## 7. 客廳 共10個
 
@@ -270,4 +340,90 @@ https://www.sweethome3d.com/freeModels.jsp
 一共9個燈
 
 
-#
+# 磚
+
+有4種磚
+
+廚房、衛生間的磚
+其他房間的地磚，窗台磚和踢腳線磚
+
+牆壓著地板 ！！！
+
+## 1. 小房間
+
+## 1.1 地磚
+
+寬2.16米 x 深2.5米 = 5.4 平方米
+門下的磚 寬0.8米 x 0.075米 = 0.06 平方米
+
+## 1.2 踢脚线砖
+
+（入門牆寬 1.36米 + 側牆 2.5米 + 側牆寬2.5米） x 0.1米高 = 0.636平方米
+
+## 1.3 窗台的磚
+
+？？？
+
+## 2. 中房間 
+
+## 2.1 地磚
+
+寬2.3米 x 深2.5米 = 5.75平方米
+門下的磚 寬0.8米 x 0.075米 = 0.06 平方米
+
+## 2.2 踢脚线砖
+
+（入門牆寬 1.5米 + 側牆 2.5米 + 側牆寬2.5米） x 0.1米高 = 0.65平方米
+
+### 2.3 窗台的磚
+
+？？？
+
+## 3. 大房間 
+
+## 3.1 地磚
+
+最大的長方形 寬3.555米 x 深2.55米
+東北方窗台前方的長方形 寬1.05米 x 深0.275米
+（扣除） 入門右手邊的牆 寬1米 x 厚0.1米 
+= 9.254 平方米
+
+## 3.2 踢脚线砖
+
+？？？？
+
+### 3.3 窗台的磚
+
+？？？
+
+### 4
+
+走廊 寬0.9米 x 深3.57米 = 3.213 平方米
+
+## 5. 廁所
+
+寬 2.17米 x 深 1.55米 = 3.3635 平方米
+門下的磚 寬0.8米 x 0.1米 = 0.08 平方米
+
+通鋪磚
+
+牆壁？？
+
+## 6. 餐廳 和 客廳 
+最大的長方形 寬2.85米 x 深4.2 米
+長方形左邊的三角形 底2米 x 高2米 / 2
+長方形上邊的三角形 斜邊 2.85米 x 斜邊 2.85米 / 4 
+（扣除）三角形右下有個缺口 底0.1米 x 高0.1米 / 2
+= 16.005625 平方米
+
+# 7. 廚房
+最大的長方形 寬1.775米 x 深 2.1米
+長方形左上方的三角形 底1.2米 x 高1.2米 / 2
+長方形右上方的梯形 (長的底1.2米 + 窄的底 0.5米 ) x 高0.7米 / 2
+= 5.0425 平方米
+
+通鋪
+
+牆壁？？
+
+
