@@ -1,6 +1,8 @@
 
 # 重要备注
+ 
 
+ 走廊的門頂端
 铰链要304
 要海棠角
 
@@ -52,6 +54,14 @@ https://www.sweethome3d.com/freeModels.jsp
 門： 兩個趟門
 
 ### 4.1 淋浴間
+
+
+[https://detail.tmall.com/item.htm?abbucket=18&id=980331832021&mi_id=0000Pc5gPOsMNsKeO1byUBGawN5nkTai2XreQIVwW3rYV18&ns=1&skuId=6102020575414&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%2205232a2e82b9001ca12ae35f0e132782%22%7D&xxc=taobaoSearch](https://detail.tmall.com/item.htm?abbucket=18&id=980331832021&mi_id=0000Pc5gPOsMNsKeO1byUBGawN5nkTai2XreQIVwW3rYV18&ns=1&skuId=6102020575414&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%2205232a2e82b9001ca12ae35f0e132782%22%7D&xxc=taobaoSearch)
+
+
+https://detail.tmall.com/item.htm?abbucket=18&id=717894086874&mi_id=0000Q8mRcCYivp8_N-F-AKs2TZVXkZ9OgejtDd6TSa2TPZ8&ns=1&priceTId=2100c80717608787548333024e08f4&skuId=5006363464203&spm=a21n57.1.hoverItem.12&utparam=%7B%22aplus_abtest%22%3A%220b7d7583c5eeae30c63b5b9c45b2dd35%22%7D&xxc=taobaoSearch
+
+1550 x 60 x 2000
 
 大小： 850 x 1500
 門： 趟門防水
