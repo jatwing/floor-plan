@@ -400,7 +400,7 @@ https://www.germanpool.com/chi/kitchen/
 
 # 磚
 
-[恩格曼云杉-黄棕 Y2FM11M](tile/Y2FM11M.png)
+![恩格曼云杉-黄棕 Y2FM11M](tile/Y2FM11M.png)
 
 
 厅、房 200 x 1200 = 43m 180片 x 33元 = 5940元
