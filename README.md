@@ -402,6 +402,7 @@ https://www.germanpool.com/chi/kitchen/
 
 ![恩格曼云杉-黄棕 Y2FM11M](tile/Y2FM11M.png)
 
+![月白 Y1GL1783TE](tile/Y1GL1783TE.png)
 
 厅、房 200 x 1200 = 43m 180片 x 33元 = 5940元
 脚线   66  x 1200 = 49m 14条 x 33 元 = 462 元
