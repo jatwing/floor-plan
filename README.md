@@ -400,18 +400,29 @@ https://www.germanpool.com/chi/kitchen/
 
 # 磚
 
-![恩格曼云杉-黄棕 Y2FM11M](tile/Y2FM11M.png)
+![恩格曼云杉-黄棕 Y2FM11ME](tile/Y2FM11ME.png)
 
-![月白 Y1GL1783TE](tile/Y1GL1783TE.png)
 
 厅、房 200 x 1200 = 43m 180片 x 33元 = 5940元
 脚线   66  x 1200 = 49m 14条 x 33 元 = 462 元
     加工费 252 元
 
+![江雪 E0GF1509RE](tile/E0GF1508.jpg)
+
 厨墙 800 x 800 = 19m 30片 x 68元 = 2040元
+
+
+![E0GFT4339RE 格林灰](tile/E0GFT4339RE.png)
+
 厨地 800 x 800 = 5m   8片 x 68元 = 544元
 
+
+![月白 Y1GL1783TE](tile/Y1GL1783TE.png)
+
 卫墙 600 x 1200 = 18 m 25片 x 89元 = 2225元
+
+![莱奥暖灰 G0FF03DE](tile/G0FF03DE.png)
+
 卫地 600 x 600 = 4 m 12 片 x 32 元 = 384元
 
 合计 11595元
