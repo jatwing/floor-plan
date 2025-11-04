@@ -15,3 +15,5 @@ https://www.fortress.com.hk/zh-hk/product/mr-cx35em-214l-%E4%B8%89%E9%96%80%E8%A
 
 包裝尺寸 (闊x高x深 毫米)
 605x1708x772
+
+83 修鞋配匙
