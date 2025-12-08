@@ -40,3 +40,5 @@ laticrete
 扇 245x245 约250开
 
 
+旧的厨房扇 Panasonic FV-20WU507 開孔尺寸. 247mm-250mm 
+
