@@ -660,3 +660,9 @@ https://www.germanpool.com/chi/kitchen/
 牆壁？？
 
 
+備注玻璃
+
+厨房玻璃 310 x 310 风扇直径27
+旧的厨房扇 Panasonic FV-20WU507 開孔尺寸. 247mm-250mm 8寸
+卫生间玻璃 530 x 400 风扇直径27.5
+需要知道型号
